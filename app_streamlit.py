@@ -1,5 +1,6 @@
 import nltk
 nltk.download('stopwords')
+nltk.download('wordnet')
 import streamlit as st
 import pickle
 import re
