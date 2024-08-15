@@ -1,8 +1,5 @@
-# Sentiment_analysis_project
+# Amazon Alexa Review - Sentiment Analysis Project
 
-
-Amazon Alexa Review - Sentiment Analysis Project
-Amazon Alexa Review - Sentiment Analysis Project
 🛠️ Using the Amazon Alexa dataset from Kaggle, we crafted a classification model to predict the sentiment of input sentences - a crucial step in understanding customer feedback and enhancing user experience.
 
 📝 Dove deep into the data, 𝐞𝐦𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐯𝐞𝐜𝐭𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧, 𝐛𝐚𝐠 𝐨𝐟 𝐰𝐨𝐫𝐝𝐬, 𝐚𝐧𝐝 𝐥𝐞𝐦𝐦𝐚𝐭𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐍𝐋𝐓𝐊 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 to preprocess text reviews.
