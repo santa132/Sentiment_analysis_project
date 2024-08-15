@@ -1,3 +1,14 @@
 # Sentiment_analysis_project
 
-In this project we have explored the amazon alexa reviews dataset from Kaggle and using the techniques like vectorization and bag of words we have converted the reviews column which was originally in text into a combination of 0’s and 1’s. Then we have split the data and trained our three models i.e random forest, decision trees, xgboost and performed our model performance metrics like AUC-ROC curve and confusion matrix. Finally we have choosen XGBoost model as it had better accuracy on the test . We have then used pickle library in python to store our models and then using the vscode we have deployed the model using the streamlit API. We were then able to give an input review to the model in the stream lit API and the model which was running behind it was able to predict the output as negative or positive statement. We were thus able to successfully implement the sentiment analysis models which will automatically detect if the review was positive or negative.
+
+Amazon Alexa Review - Sentiment Analysis Project
+Amazon Alexa Review - Sentiment Analysis Project
+🛠️ Using the Amazon Alexa dataset from Kaggle, we crafted a classification model to predict the sentiment of input sentences - a crucial step in understanding customer feedback and enhancing user experience.
+
+📝 Dove deep into the data, 𝐞𝐦𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐯𝐞𝐜𝐭𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧, 𝐛𝐚𝐠 𝐨𝐟 𝐰𝐨𝐫𝐝𝐬, 𝐚𝐧𝐝 𝐥𝐞𝐦𝐦𝐚𝐭𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐍𝐋𝐓𝐊 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 to preprocess text reviews.
+
+📈 After training 𝐑𝐚𝐧𝐝𝐨𝐦 𝐅𝐨𝐫𝐞𝐬𝐭, 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐞𝐞𝐬, 𝐚𝐧𝐝 𝐗𝐆𝐁𝐨𝐨𝐬𝐭 𝐦𝐨𝐝𝐞𝐥𝐬, we rigorously evaluated their performance with 𝐀𝐔𝐂-𝐑𝐎𝐂 𝐜𝐮𝐫𝐯𝐞𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐟𝐮𝐬𝐢𝐨𝐧 𝐦𝐚𝐭𝐫𝐢𝐜𝐞𝐬.
+
+💻 But the real magic happened with deployment - storing our model with 𝐩𝐢𝐜𝐤𝐥𝐞 𝐥𝐢𝐛𝐫𝐚𝐫𝐲 and rolling it out via 𝐒𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐭 in 𝐕𝐒𝐂𝐨𝐝𝐞. Now, users can effortlessly input reviews and receive automated sentiment analysis in real-time.
+
+🎉 Excited to announce that our model boasts an impressive 𝟗𝟕% 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 𝐫𝐚𝐭𝐞, providing companies with actionable insights for product development and enhancing overall user experience.
