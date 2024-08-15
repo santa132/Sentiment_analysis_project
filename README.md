@@ -1,6 +1,7 @@
 # Amazon Alexa Review - Sentiment Analysis Project
 
-https://media.licdn.com/dms/image/v2/D562DAQFo8JSk0DgndA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719359081639?e=1724295600&v=beta&t=ptl4tx2z5SbaDcMaQDOTes-3mMf02z6NxKLkEjxbKqo![image](https://github.com/user-attachments/assets/d2583dce-0c09-47ba-b58f-d2198fdd2d7e)
+<img width="747" alt="Screenshot 2024-08-14 at 10 50 11 PM" src="https://github.com/user-attachments/assets/6ce6ff71-7d01-4123-97e2-35bb21fdfc85">
+
 
 
 🛠️ Using the Amazon Alexa dataset from Kaggle, we crafted a classification model to predict the sentiment of input sentences - a crucial step in understanding customer feedback and enhancing user experience.
