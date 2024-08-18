@@ -1,8 +1,14 @@
 # Amazon Alexa Review - Sentiment Analysis Project
 
+[Try the app from here](https://yamini-akula-sentiment-analysis-project-app-streamlit-ch4dlq.streamlit.app/)
+
+## Demo
+
 <img width="747" alt="Screenshot 2024-08-14 at 10 50 11 PM" src="https://github.com/user-attachments/assets/6ce6ff71-7d01-4123-97e2-35bb21fdfc85">
 
 
+
+## Project overflow
 
 🛠️ Using the Amazon Alexa dataset from Kaggle, we crafted a classification model to predict the sentiment of input sentences - a crucial step in understanding customer feedback and enhancing user experience.
 
